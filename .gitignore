@@ -1,0 +1,6 @@
+node_modules
+.env
+erDiagram.mmd
+functionmermaid.mmd
+main.py
+
